@@ -1,15 +1,15 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 27 July, 2021
+- Facilitator: @gusshawstewart
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
+If you have a question, or need assistance during class, **please create an issue and mention @gusshawstewart**.
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: SURVEY-LINK
+Please take a moment to complete the class survey at: <https://www.surveymonkey.com/r/M7M9LNL>
 
 ## Scripts for Adding Files
 
