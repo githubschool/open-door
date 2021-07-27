@@ -3,7 +3,6 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
-
+Alien looking at human code
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
