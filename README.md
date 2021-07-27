@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers!!!
 
 - Class Date: 27 July, 2021
 - Facilitator: @gusshawstewart
