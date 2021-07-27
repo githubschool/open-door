@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Good start !!"
+title: "Welcome !!"
 ---
 
 Good to know about GITHUB
