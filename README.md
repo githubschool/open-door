@@ -1,4 +1,4 @@
-# GitHub for Developers!!!
+# GitHub for Developers 2.0 is awesome!
 
 - Class Date: 27 July, 2021
 - Facilitator: @gusshawstewart
